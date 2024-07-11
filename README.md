@@ -6,7 +6,7 @@ This repository contains the SQL scripts used to analyze the performance of prom
 Promotional campaigns play a crucial role in the retail industry, driving sales and attracting customers during festive seasons. This project aims to analyze the performance of promotional campaigns conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024. By leveraging data analytics, we seek to gain insights into the effectiveness of these campaigns and provide recommendations for optimizing future marketing strategies.
 
 # Data Sources
-The analysis is based on data obtained from AtliQ Mart's internal databases. The main datasets used include fact_events, dim_products, dim_stores, and sales_summary. These datasets contain information about product sales, store locations, promotional events, and campaign revenues.
+The analysis is based on data obtained from AtliQ Mart's internal databases. The main datasets used include fact_events, dim_products, dim_stores, and dim_campaign. These datasets contain information about product sales, store locations, promotional events, and campaign revenues.
 
 # Project Overview:
 1. Analyzed data from AtliQ Mart's internal databases.
