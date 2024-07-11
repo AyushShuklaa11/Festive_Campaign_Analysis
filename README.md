@@ -15,7 +15,7 @@ The analysis is based on data obtained from AtliQ Mart's internal databases. The
 
 # Results and Insights
 The analysis revealed several key insights:
-1.High-value products featured in 'BOGOF' promotions.
+1. High-value products featured in 'BOGOF' promotions.
 2.Distribution of stores across different cities.
 3.Total revenue generated before and after each promotional campaign.
 4.Incremental sold quantity and revenue percentage during the Diwali campaign.
