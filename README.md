@@ -9,20 +9,24 @@ Promotional campaigns play a crucial role in the retail industry, driving sales 
 The analysis is based on data obtained from AtliQ Mart's internal databases. The main datasets used include fact_events, dim_products, dim_stores, and sales_summary. These datasets contain information about product sales, store locations, promotional events, and campaign revenues.
 
 # Project Overview:
-1.Analyzed data from AtliQ Mart's internal databases.
+1. Analyzed data from AtliQ Mart's internal databases.
 
-2.Performed SQL queries to fulfill five business requests.
-
-3.Insights are intended to inform future promotional strategies and resource allocation.
+2. Performed SQL queries to fulfill five business requests.
+3. Insights are intended to inform future promotional strategies and resource allocation.
 
 # Results and Insights
 The analysis revealed several key insights:
 
 1.High-value products featured in 'BOGOF' promotions.
+
 2.Distribution of stores across different cities.
+
 3.Total revenue generated before and after each promotional campaign.
+
 4.Incremental sold quantity and revenue percentage during the Diwali campaign.
+
 5.Top 5 products ranked by incremental revenue percentage.
+
 These insights can help AtliQ Mart make informed decisions for future promotional activities, optimize resource allocation, and improve overall sales performance.
 
 # Conclusion
