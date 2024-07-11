@@ -29,7 +29,7 @@ Overall, the analysis provides valuable insights into the performance of promoti
 # Additional Insights
 In addition to the main business requests, the following recommended insights were explored during the analysis:
 
-# Store Performance Analysis
+## Store Performance Analysis
 1. Top 10 Stores by Incremental Revenue (IR): Identify the top-performing stores in terms of incremental revenue generated from promotions.
 2. Bottom 10 Stores by Incremental Sold Units (ISU): Identify the stores with the lowest performance in terms of incremental sold units during the promotional period.
 3. City-wise Store Performance: Analyze how store performance varies by city and identify any common characteristics among top-performing stores.
